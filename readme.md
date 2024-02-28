@@ -18,9 +18,9 @@ This project utilizes GPT-3.5 and the CodeLlama model in a cloud environment for
 2. Run the project: `node app.js`
 
 ## Contributing
-Contributions are welcome! Please follow the [Contribution Guidelines](CONTRIBUTING.md).
+Contributions are welcome!
+contact: aitechguy0105@gmail.com
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
 
 
