@@ -19,7 +19,6 @@ This project utilizes GPT-3.5 and the CodeLlama model in a cloud environment for
 
 ## Contributing
 Contributions are welcome!
-contact: aitechguy0105@gmail.com
 
 
 
